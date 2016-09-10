@@ -3,6 +3,10 @@
 
 **Last Update:** 2016-SEP-02-1133
 
+[About Business Model Canvas](https://en.wikipedia.org/wiki/Business_Model_Canvas)
+
+![Image](https://en.wikipedia.org/wiki/Business_Model_Canvas#/media/File:Business_Model_Canvas.png) "Image"
+
 ---
 
 ## Key Partners
