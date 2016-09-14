@@ -2,11 +2,11 @@
 
 **Risk Data Sheet**
 
-**Last Update:** yyyy-mmm-dd<br>
-**Project:** insert_text_here<br>
-**Customer:** insert_text_here<br>
-**Sponsor:** insert_text_here<br>
-**Project Manager:** insert_text_here<br>
+- **Last Update:** yyyy-mmm-dd
+- **Project:** insert_text_here
+- **Customer:** insert_text_here
+- **Sponsor:** insert_text_here
+- **Project Manager:** insert_text_here
 
 ## Risk description
 

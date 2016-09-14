@@ -1,6 +1,10 @@
 # Probability and Impact Matrix
 
-**Last Update:** 2016-SEP-02-1133
+- **Last Update:** yyyy-mmm-dd
+- **Project:** insert_text_here
+- **Customer:** insert_text_here
+- **Sponsor:** insert_text_here
+- **Project Manager:** insert_text_here
 
 ## Scale
 
@@ -20,7 +24,7 @@ Item One   | Item Two   | Item Two   | Item Two   | Item Two
 # 5 X 5 Grid
 
 X               | 1 Very Low | 2  | 3 Medium | 4  | 5 Very High
---------------- | :--------: | :: | :------: | :: | :---------:
+--------------- | :--------: | -- | :------: | -- | :---------:
 **5 Very High** |     5      | 10 |    15    | 20 |     25
 **4**           |     4      | 8  |    12    | 16 |     20
 **3 Medium**    |     3      | 6  |    9     | 12 |     15
