@@ -28,6 +28,130 @@
 
 - Prioritisation #55
 
+## Strategy
+
+### Strategy - external business environment
+
+- PESTLE
+- Porter's Five Forces
+
+### Strategy - internal capability
+
+- MOST analysis
+- Resource Audit
+- Boston Box
+
+### Strategy definition
+
+- SWOT analysis
+- Ansoff's matrix
+
+### Strategy implementation
+
+- McKinsey's 7-S model
+- Four-view model
+
+### Performance measurement
+
+- Critical Success factors
+- Key Performance indicators
+- Balanced Scorecard
+
+--------------------------------------------------------------------------------
+
+## Investigate
+
+### Qualitative investigation
+
+- Interviews
+- Workshops
+- Observation
+
+### Quantitative investigation
+
+- Questionnaires
+- Sampling
+- Special-purpose records
+- Document analysis
+
+### Document results
+
+- Rich pictures
+- Mind maps
+- Context diagrams
+
+--------------------------------------------------------------------------------
+
+## Consider perspectives
+
+### Stakeholder identification
+
+- Stakeholder nomination
+- Background research
+- Document analysis
+- Stakeholder wheel
+
+### Stakeholder analysis
+
+- Power / Interest or Power / Impact grid
+- CATWOE, VOCATE, or PARADE
+- Business activity modelling
+- RACI or RASCI
+
+### Stakeholder management
+
+- Stakeholder management planning
+- Thomas-Kilmann conflict mode instrument
+- Principled negotiation
+
+--------------------------------------------------------------------------------
+
+## Analyse needs
+
+### Organizational modelling
+
+- Value proposition analysis
+- Value chain analysis
+- Organization diagrams
+
+### Business process analysis
+
+- Business event analysis
+- Business process modelling
+- Business rules analysis
+- Decision tables and decision trees
+
+### Business change identification
+
+- Gap analysis
+
+--------------------------------------------------------------------------------
+
+## Evaluate options
+
+### Identify options
+
+- Identify options
+
+### Shortlist options
+
+- SWOT analysis
+- PESTLE
+- Feasibility analysis
+- Force-field analysis
+
+### Prepare business case
+
+- Cost-benefit analysis
+- Impact analysis
+- Risk analysis
+- Investment appraisal
+
+### Present business case
+
+- Business case creation
+- Business case presentation
+
 ## All Tools
 
 - Acceptance criteria definition #58
@@ -66,7 +190,7 @@
 - Decision tables and decision trees #39
 - Document analysis #19
 - Entity Relation diagrams (ERDs) #63a
-- Entity retionship modelling #63
+- Entity relationship modelling #63
 - Ethnographic study #15e
 - Facilitated workshops #14a
 - Feasibility analysis #42
@@ -155,7 +279,7 @@
 - Value chain analysis #34
 - VMOST analysis #3a
 - VOCATE #27a
-- Web #21a
+- Webs #21b
 - Work measurement #17b
 - Workshops #14
 

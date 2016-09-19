@@ -65,6 +65,11 @@ _If you are using numeric scoring, multiply the probability times the impact to 
 
 _Describe the planned response strategy to the risk or condition._
 
+- [ ] Avoid
+- [ ] Mitigate
+- [ ] Transfer
+- [x] Accept
+
 ## Revised probability
 
 _Determine the likelihood of the event or condition occurring after the response has been implemented._
