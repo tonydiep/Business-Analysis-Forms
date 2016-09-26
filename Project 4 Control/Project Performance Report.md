@@ -1,10 +1,12 @@
 # Project Performance Report
 
-**Last Update:** yyyy-mmm-dd<br>
-**Project:** insert_text_here<br>
-**Customer:** insert_text_here<br>
-**Sponsor:** insert_text_here<br>
-**Project Manager:** insert_text_here<br>
+- **Last Update:** yyyy-mmm-dd
+- **Reporting Period Start:** yyyy-mmm-dd
+- **Reporting Period End:** yyyy-mmm-dd
+- **Project:** insert_text_here
+- **Customer:** insert_text_here
+- **Sponsor:** insert_text_here
+- **Project Manager:** insert_text_here
 
 ## Accomplishments for this reporting period
 

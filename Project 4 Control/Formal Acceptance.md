@@ -1,4 +1,4 @@
-# Issue 12345
+# Formal Acceptance
 
 - **Last Update:** yyyy-mmm-dd
 - **Project:** insert_text_here
@@ -6,19 +6,19 @@
 - **Sponsor:** insert_text_here
 - **Project Manager:** insert_text_here
 
-## Category
+## ID - Requirement
 
-_Document the category of issue, such as stakeholder issue, technical issue, decision, etc._
+_Enter the requirement identifier from the requirements documentation._
 
-## Issue
+## Requirement Description
 
-_Provide a detailed description of the issue._
+_Enter the requirement description from the requirements documentation._
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-## Impact on objectives
+## Acceptance criteria
 
-_Identify the project objectives that the issue impacts and the degree of impact._
+_Enter the criteria for acceptance from the requirements documentation._
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
@@ -28,15 +28,9 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
 
 3. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-## Responsible party
+## Validation method
 
-_Identify the person who is assigned to resolve the issue._
-
-John Doe
-
-## Actions
-
-_Document the actions needed to address and resolve the issue._
+_Describe the method of validating that the requirement meets the stakeholder's needs._
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
@@ -48,17 +42,17 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
 
 ## Status
 
-_Denote the status of the issue as open or closed._
+_Document whether the requirement or deliverable was accepted or not._
 
-- [x] Open
-- [ ] Closed
-
-## Due date
-
-_Document the date by when the issue needs to be resolved._
+- [x] Accepted
+- [ ] Not Accepted
 
 ## Comments
 
-_Document any clarifying comments about the issue, resolution, or other fields on the form._
+_Document why the requirement or deliverable was not accepted and the required changes for being accepted._
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+## Signoff
+
+_Obtain the signature of the party accepting the product._

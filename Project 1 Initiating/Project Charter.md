@@ -2,12 +2,14 @@
 
 ## Project Charter
 
-**Date Prepared:** insert_text_here<br>
-**Version:** insert_text_here
+- **Date Prepared:** insert_text_here
+- **Version:** insert_text_here
 
-**Project Sponsor:** insert_text_here<br>
-**Project Manager:** insert_text_here<br>
-**Project Customer:** insert_text_here
+- **Project Sponsor:** insert_text_here
+
+- **Project Manager:** insert_text_here
+
+- **Project Customer:** insert_text_here
 
 ### Project Purpose or Justification
 
@@ -161,10 +163,10 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
 
 The name, position, and authority of the person who oversees the project manager for the purposes of the project. Common types of authority include the ability to approve changes, determine acceptable variance limits, impact inter-project conflicts, and champion the project at a senior management level.
 
-**Project Manager Name:** insert_text_here<br>
-**Project Manager Title:** insert_text_here<br>
-**Date Signed:** insert_text_here
+- **Project Manager Name:** insert_text_here
+- **Project Manager Title:** insert_text_here
+- **Date Signed:** insert_text_here
 
-**Sponsor Name:** insert_text_here<br>
-**Sponsor Title:** insert_text_here<br>
-**Date Signed:** insert_text_here
+- **Sponsor Name:** insert_text_here
+- **Sponsor Title:** insert_text_here
+- **Date Signed:** insert_text_here

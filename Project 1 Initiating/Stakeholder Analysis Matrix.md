@@ -17,14 +17,14 @@
 
 ### 9 - High Power, High Interest
 
-- [Project Sponsor](./stakeholder_one.md)
+- [Project Sponsor](../Stakeholders/Stakeholder 1 - Project Sponsor.md)
 - Stakeholder
 
 --------------------------------------------------------------------------------
 
 ### 6
 
-- Stakeholder
+- [End User](../Stakeholders/Stakeholder 2 - End User.md)
 - Stakeholder
 
 --------------------------------------------------------------------------------
