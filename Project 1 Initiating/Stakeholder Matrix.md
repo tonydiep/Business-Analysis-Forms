@@ -1,8 +1,14 @@
-# 3 x 3 Analysis Matrix
+# Stakeholder Analysis Matrix
+
+- **Last Update:** yyyy-mmm-dd
+- **Project:** insert_text_here
+- **Customer:** insert_text_here
+- **Sponsor:** insert_text_here
+- **Project Manager:** insert_text_here
 
 ## Scale
 
-**insert_text_here ⇨X**
+**Interest ⇨X**
 
 .     |   .    | **1** | **2**  | **3**
 ----- | :----: | :---: | :----: | :---:
@@ -11,56 +17,50 @@
 **2** | Medium |   2   |   4    |   6
 **1** |  Low   |   1   |   2    |   3
 
-**insert_text_here ⇧Y**
+**Power ⇧Y**
 
-## Ranking
+## Stakeholder Ranking
 
 --------------------------------------------------------------------------------
 
-### 9 High
+### 9 - High Power, High Interest
 
-- Item
-- Item
-- Item
+- [Project Sponsor](../Stakeholders/Stakeholder 1 - Project Sponsor.md)
+- Stakeholder
 
 --------------------------------------------------------------------------------
 
 ### 6
 
-- Item
-- Item
-- Item
+- [End User](../Stakeholders/Stakeholder 2 - End User.md)
+- Stakeholder
 
 --------------------------------------------------------------------------------
 
-### 4 Medium
+### 4 - Medium Power, Medium Interest
 
-- Item
-- Item
-- Item
+- [Stakeholder Two](./stakeholder_two.md)
+- Stakeholder
 
 --------------------------------------------------------------------------------
 
 ### 3
 
-- Item
-- Item
-- Item
+- Stakeholder
+- Stakeholder
 
 --------------------------------------------------------------------------------
 
-### 2
+## 2
 
-- Item
-- Item
-- Item
+- Stakeholder
+- Stakeholder
 
 --------------------------------------------------------------------------------
 
-### 1 Low
+### 1 - Low Power, Low Interest
 
-- Item
-- Item
-- Item
+- [Stakeholder Three](./stakeholder_three.md)
+- Stakeholder
 
 --------------------------------------------------------------------------------
