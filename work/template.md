@@ -16,6 +16,12 @@
 - **Sponsor:** insert_text_here
 - **Project Manager:** insert_text_here
 
+--------------------------------------------------------------------------------
+
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+--------------------------------------------------------------------------------
+
 # Bullets
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
